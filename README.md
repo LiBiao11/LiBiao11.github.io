@@ -1,2 +1,2 @@
-# LiBiao11.site
+# LiBiao11.github.io
 Personal Website
